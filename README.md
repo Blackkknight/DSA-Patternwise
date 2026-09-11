@@ -1,1 +1,1 @@
-Patterb wise DSA codebase
+Pattern wise DSA codebase
